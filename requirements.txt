@@ -1,5 +1,5 @@
-pip3 install fastapi
-pip3 install opencv
-pip3 install tensorflow
-pip3 install numpy
-pip3 install openai
+fastapi
+tensorflow
+opencv-python
+openai
+numpy
